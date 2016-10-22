@@ -1,0 +1,25 @@
+{
+  "name": "gauge-request",
+  "version": "1.0.0",
+  "description": "GaugeJS Request plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gauge",
+    "gauge-js",
+    "request",
+    "api",
+    "supertest"
+  ],
+  "author": "",
+  "license": "GPLv3",
+  "dependencies": {
+    "superagent-defaults": "^0.1.14",
+    "supertest": "^2.0.1",
+    "gauge-plugin": "^0.0.1",
+    "gauge-store": "^0.0.1",
+    "gauge-table": "^0.0.1"
+  }
+}
